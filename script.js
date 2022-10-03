@@ -43,5 +43,3 @@ movies.forEach((movie) => {
   search.json(params, callback);
 });
 
-// boost booking script in javascript
-
