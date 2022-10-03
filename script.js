@@ -1,6 +1,6 @@
 const SerpApi = require("google-search-results-nodejs");
 const search = new SerpApi.GoogleSearch(
-  "1128eb3c053422a13c769047a1c3c5b5dd946c74556fe284df4bc3e3d32f9c3c"
+  "token_here"
 );
 const fs = require("fs");
 const axios = require("axios");
